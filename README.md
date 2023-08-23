@@ -5,7 +5,11 @@ review image (![demo image](https://github.com/abhey-afk/CVIP-landing-page/asset
 #Technologies
 
 HTML 5
-CSS 3 
+
+CSS 3
+
 Javascript
+
 Bootstrap 4
+
 Font Awesome
