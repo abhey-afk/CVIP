@@ -13,3 +13,22 @@ Javascript
 Bootstrap 4
 
 Font Awesome
+Status
+
+Project is: done
+
+
+Contact
+Created by Abhey - feel free to contact me!
+
+License
+You can check out the full license here
+
+This project is licensed under the terms of the MIT license.
+
+Contributing
+Fork it (https://github.com/Williano/Landing-Page.git)
+Create your feature branch (git checkout -b feature/fooBar)
+Commit your changes (git commit -am 'Add some fooBar')
+Push to the branch (git push origin feature/fooBar)
+Create a new Pull Request
